@@ -6,3 +6,15 @@ A server port is a number on a computer that defines an individual route in and 
 
 ## How many bits does number above represent?
 16 bits
+
+## State 10 common server ports
+- 80
+- 443
+- 22
+- 993
+- 995
+- 587
+- 20
+- 25
+- 53
+- 123
