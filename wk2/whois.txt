@@ -1,0 +1,437 @@
+google.com
+        Domain Name: google.com
+        Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+        Registrar WHOIS Server: whois.markmonitor.com
+        Registrar URL: http://www.markmonitor.com
+        Updated Date: 2019-09-09T15:39:04+0000
+        Creation Date: 1997-09-15T07:00:00+0000
+        Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+        Registrar: MarkMonitor, Inc.
+        Registrar IANA ID: 292
+        Registrar Abuse Contact Email: email@markmonitor.com
+        Registrar Abuse Contact Phone: +1.2086851750
+        Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+        Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+        Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+        Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+        Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+        Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+        Registrant Organization: Google LLC
+        Registrant State/Province: CA
+        Registrant Country: US
+        Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+        Admin Organization: Google LLC
+        Admin State/Province: CA
+        Admin Country: US
+        Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+        Tech Organization: Google LLC
+        Tech State/Province: CA
+        Tech Country: US
+        Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+        Name Server: ns2.google.com
+        Name Server: ns3.google.com
+        Name Server: ns1.google.com
+        Name Server: ns4.google.com
+        DNSSEC: unsigned
+        URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+        >>> Last update of WHOIS database: 2024-01-19T07:26:19+0000 <<<
+
+        For more information on WHOIS status codes, please visit:
+          https://www.icann.org/resources/pages/epp-status-codes
+
+        If you wish to contact this domain’s Registrant, Administrative, or Technical
+        contact, and such email address is not visible above, you may do so via our web
+        form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+        robot, please enter your email address to receive a link to a page that
+        facilitates email communication with the relevant contact(s).
+
+        Web-based WHOIS:
+          https://domains.markmonitor.com/whois
+
+        If you have a legitimate interest in viewing the non-public WHOIS details, send
+        your request and the reasons for your request to email@markmonitor.com
+        and specify the domain name in the subject line. We will review that request and
+        may ask for supporting documentation and explanation.
+
+        The data in MarkMonitor’s WHOIS database is provided for information purposes,
+        and to assist persons in obtaining information about or related to a domain
+        name’s registration record. While MarkMonitor believes the data to be accurate,
+        the data is provided "as is" with no guarantee or warranties regarding its
+        accuracy.
+
+        By submitting a WHOIS query, you agree that you will use this data only for
+        lawful purposes and that, under no circumstances will you use this data to:
+          (1) allow, enable, or otherwise support the transmission by email, telephone,
+        or facsimile of mass, unsolicited, commercial advertising, or spam; or
+          (2) enable high volume, automated, or electronic processes that send queries,
+        data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+        its systems).
+
+        MarkMonitor reserves the right to modify these terms at any time.
+
+        By submitting this query, you agree to abide by this policy.
+
+        MarkMonitor Domain Management(TM)
+        Protecting companies and consumers in a digital world.
+
+        Visit MarkMonitor at https://www.markmonitor.com
+        Contact us at +1.8007459229
+        In Europe, at +44.02032062220
+        --
+
+bing.com
+        Domain Name: bing.com
+        Registry Domain ID: 49639_DOMAIN_COM-VRSN
+        Registrar WHOIS Server: whois.markmonitor.com
+        Registrar URL: http://www.markmonitor.com
+        Updated Date: 2023-12-29T11:19:45+0000
+        Creation Date: 1996-01-29T05:00:00+0000
+        Registrar Registration Expiration Date: 2025-01-30T00:00:00+0000
+        Registrar: MarkMonitor, Inc.
+        Registrar IANA ID: 292
+        Registrar Abuse Contact Email: email@markmonitor.com
+        Registrar Abuse Contact Phone: +1.2086851750
+        Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+        Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+        Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+        Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+        Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+        Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+        Registry Registrant ID: 
+        Registrant Name: Domain Administrator
+        Registrant Organization: Microsoft Corporation
+        Registrant Street: One Microsoft Way, 
+        Registrant City: Redmond
+        Registrant State/Province: WA
+        Registrant Postal Code: 98052
+        Registrant Country: US
+        Registrant Phone: +1.4258828080
+        Registrant Phone Ext: 
+        Registrant Fax: +1.4259367329
+        Registrant Fax Ext: 
+        Registrant Email: email@microsoft.com
+        Registry Admin ID: 
+        Admin Name: Domain Administrator
+        Admin Organization: Microsoft Corporation
+        Admin Street: One Microsoft Way, 
+        Admin City: Redmond
+        Admin State/Province: WA
+        Admin Postal Code: 98052
+        Admin Country: US
+        Admin Phone: +1.4258828080
+        Admin Phone Ext: 
+        Admin Fax: +1.4259367329
+        Admin Fax Ext: 
+        Admin Email: email@microsoft.com
+        Registry Tech ID: 
+        Tech Name: MSN Hostmaster
+        Tech Organization: Microsoft Corporation
+        Tech Street: One Microsoft Way, 
+        Tech City: Redmond
+        Tech State/Province: WA
+        Tech Postal Code: 98052
+        Tech Country: US
+        Tech Phone: +1.4258828080
+        Tech Phone Ext: 
+        Tech Fax: +1.4259367329
+        Tech Fax Ext: 
+        Tech Email: email@microsoft.com
+        Name Server: ns1-204.azure-dns.com
+        Name Server: dns3.p09.nsone.net
+        Name Server: ns4-204.azure-dns.info
+        Name Server: dns4.p09.nsone.net
+        Name Server: ns2-204.azure-dns.net
+        Name Server: ns3-204.azure-dns.org
+        Name Server: dns1.p09.nsone.net
+        Name Server: dns2.p09.nsone.net
+        DNSSEC: unsigned
+        URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+        >>> Last update of WHOIS database: 2024-01-12T22:07:26+0000 <<<
+
+        For more information on WHOIS status codes, please visit:
+        https://www.icann.org/resources/pages/epp-status-codes
+
+        If you wish to contact this domain’s Registrant, Administrative, or Technical
+        contact, and such email address is not visible above, you may do so via our web
+        form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+        robot, please enter your email address to receive a link to a page that
+        facilitates email communication with the relevant contact(s).
+
+        Web-based WHOIS:
+        https://domains.markmonitor.com/whois
+
+        If you have a legitimate interest in viewing the non-public WHOIS details, send
+        your request and the reasons for your request to email@markmonitor.com
+        and specify the domain name in the subject line. We will review that request and
+        may ask for supporting documentation and explanation.
+
+        The data in MarkMonitor’s WHOIS database is provided for information purposes,
+        and to assist persons in obtaining information about or related to a domain
+        name’s registration record. While MarkMonitor believes the data to be accurate,
+        the data is provided "as is" with no guarantee or warranties regarding its
+        accuracy.
+
+        By submitting a WHOIS query, you agree that you will use this data only for
+        lawful purposes and that, under no circumstances will you use this data to:
+        (1) allow, enable, or otherwise support the transmission by email, telephone,
+        or facsimile of mass, unsolicited, commercial advertising, or spam; or
+        (2) enable high volume, automated, or electronic processes that send queries,
+        data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+        its systems).
+
+        MarkMonitor reserves the right to modify these terms at any time.
+
+        By submitting this query, you agree to abide by this policy.
+
+        MarkMonitor Domain Management(TM)
+        Protecting companies and consumers in a digital world.
+
+        Visit MarkMonitor at https://www.markmonitor.com
+        Contact us at +1.8007459229
+        In Europe, at +44.02032062220
+        ----
+
+whois.com
+        Domain Name: WHOIS.COM
+        Registry Domain ID: 809888_DOMAIN_COM-VRSN
+        Registrar WHOIS Server: whois.publicdomainregistry.com
+        Registrar URL: www.publicdomainregistry.com
+        Updated Date: 2020-07-31T05:29:51Z
+        Creation Date: 1995-04-11T04:00:00Z
+        Registrar Registration Expiration Date: 2028-04-12T04:00:00Z
+        Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+        Registrar IANA ID: 303
+        Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+        Registry Registrant ID: Not Available From Registry
+        Registrant Name: Domain Administrator
+        Registrant Organization: Whois Digital Pte Ltd
+        Registrant Street: 9A Jasmine Road   
+        Registrant City: Singapore
+        Registrant State/Province: Singapore
+        Registrant Postal Code: 576582
+        Registrant Country: SG
+        Registrant Phone: +65.31507504
+        Registrant Phone Ext: 
+        Registrant Fax: 
+        Registrant Fax Ext: 
+        Registrant Email: email@whois.com
+        Registry Admin ID: Not Available From Registry
+        Admin Name: Domain Administrator
+        Admin Organization: Whois Digital Pte Ltd
+        Admin Street: 9A Jasmine Road  
+        Admin City: Singapore
+        Admin State/Province: Singapore
+        Admin Postal Code: 576582
+        Admin Country: SG
+        Admin Phone: +65.31507504
+        Admin Phone Ext: 
+        Admin Fax: 
+        Admin Fax Ext: 
+        Admin Email: email@whois.com
+        Registry Tech ID: Not Available From Registry
+        Tech Name: Domain Administrator
+        Tech Organization: Whois Digital Pte Ltd
+        Tech Street: 9A Jasmine Road  
+        Tech City: Singapore
+        Tech State/Province: Singapore
+        Tech Postal Code: 576582
+        Tech Country: SG
+        Tech Phone: +65.31507504
+        Tech Phone Ext: 
+        Tech Fax: 
+        Tech Fax Ext: 
+        Tech Email: email@whois.com
+        Name Server: anastasia.ns.cloudflare.com
+        Name Server: roman.ns.cloudflare.com
+        DNSSEC: Unsigned
+        Registrar Abuse Contact Email: email@publicdomainregistry.com
+        Registrar Abuse Contact Phone: +1.2013775952
+        URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+        >>> Last update of WHOIS database: 2024-01-18T07:44:25Z <<<
+
+        For more information on Whois status codes, please visit https://icann.org/epp
+
+        Registration Service Provided By: 
+
+        The data in this whois database is provided to you for information purposes 
+        only, that is, to assist you in obtaining information about or related to a 
+        domain name registration record. We make this information available "as is",
+        and do not guarantee its accuracy. By submitting a whois query, you agree 
+        that you will use this data only for lawful purposes and that, under no 
+        circumstances will you use this data to: 
+        (1) enable high volume, automated, electronic processes that stress or load 
+        this whois database system providing you this information; or 
+        (2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+        commercial advertising or solicitations via direct mail, electronic mail, or 
+        by telephone. 
+        The compilation, repackaging, dissemination or other use of this data is 
+        expressly prohibited without prior written consent from us. The Registrar of 
+        record is PDR Ltd. d/b/a PublicDomainRegistry.com. 
+        We reserve the right to modify these terms at any time. 
+        By submitting this query, you agree to abide by these terms.
+
+
+github.com
+        Domain Name: github.com
+        Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+        Registrar WHOIS Server: whois.markmonitor.com
+        Registrar URL: http://www.markmonitor.com
+        Updated Date: 2022-09-07T09:10:44+0000
+        Creation Date: 2007-10-09T18:20:50+0000
+        Registrar Registration Expiration Date: 2024-10-09T00:00:00+0000
+        Registrar: MarkMonitor, Inc.
+        Registrar IANA ID: 292
+        Registrar Abuse Contact Email: email@markmonitor.com
+        Registrar Abuse Contact Phone: +1.2086851750
+        Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+        Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+        Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+        Registrant Organization: GitHub, Inc.
+        Registrant State/Province: CA
+        Registrant Country: US
+        Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+        Admin Organization: GitHub, Inc.
+        Admin State/Province: CA
+        Admin Country: US
+        Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+        Tech Organization: GitHub, Inc.
+        Tech State/Province: CA
+        Tech Country: US
+        Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+        Name Server: ns-1283.awsdns-32.org
+        Name Server: ns-421.awsdns-52.com
+        Name Server: dns4.p08.nsone.net
+        Name Server: dns2.p08.nsone.net
+        Name Server: dns3.p08.nsone.net
+        Name Server: ns-1707.awsdns-21.co.uk
+        Name Server: dns1.p08.nsone.net
+        Name Server: ns-520.awsdns-01.net
+        DNSSEC: unsigned
+        URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+        >>> Last update of WHOIS database: 2024-01-16T10:28:30+0000 <<<
+
+        For more information on WHOIS status codes, please visit:
+          https://www.icann.org/resources/pages/epp-status-codes
+
+        If you wish to contact this domain’s Registrant, Administrative, or Technical
+        contact, and such email address is not visible above, you may do so via our web
+        form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+        robot, please enter your email address to receive a link to a page that
+        facilitates email communication with the relevant contact(s).
+
+        Web-based WHOIS:
+          https://domains.markmonitor.com/whois
+
+        If you have a legitimate interest in viewing the non-public WHOIS details, send
+        your request and the reasons for your request to email@markmonitor.com
+        and specify the domain name in the subject line. We will review that request and
+        may ask for supporting documentation and explanation.
+
+        The data in MarkMonitor’s WHOIS database is provided for information purposes,
+        and to assist persons in obtaining information about or related to a domain
+        name’s registration record. While MarkMonitor believes the data to be accurate,
+        the data is provided "as is" with no guarantee or warranties regarding its
+        accuracy.
+
+        By submitting a WHOIS query, you agree that you will use this data only for
+        lawful purposes and that, under no circumstances will you use this data to:
+          (1) allow, enable, or otherwise support the transmission by email, telephone,
+        or facsimile of mass, unsolicited, commercial advertising, or spam; or
+          (2) enable high volume, automated, or electronic processes that send queries,
+        data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+        its systems).
+
+        MarkMonitor reserves the right to modify these terms at any time.
+
+        By submitting this query, you agree to abide by this policy.
+
+        MarkMonitor Domain Management(TM)
+        Protecting companies and consumers in a digital world.
+
+        Visit MarkMonitor at https://www.markmonitor.com
+        Contact us at +1.8007459229
+        In Europe, at +44.02032062220
+        --
+
+
+yahoo.com
+        Domain Name: yahoo.com
+        Registry Domain ID: 3643624_DOMAIN_COM-VRSN
+        Registrar WHOIS Server: whois.markmonitor.com
+        Registrar URL: http://www.markmonitor.com
+        Updated Date: 2023-12-18T09:09:50+0000
+        Creation Date: 1995-01-18T08:00:00+0000
+        Registrar Registration Expiration Date: 2025-01-19T00:00:00+0000
+        Registrar: MarkMonitor, Inc.
+        Registrar IANA ID: 292
+        Registrar Abuse Contact Email: email@markmonitor.com
+        Registrar Abuse Contact Phone: +1.2086851750
+        Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+        Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+        Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+        Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+        Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+        Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+        Registrant Organization: Yahoo Assets LLC
+        Registrant State/Province: VA
+        Registrant Country: US
+        Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+        Admin Organization: Yahoo Assets LLC
+        Admin State/Province: VA
+        Admin Country: US
+        Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+        Tech Organization: Yahoo Assets LLC
+        Tech State/Province: VA
+        Tech Country: US
+        Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+        Name Server: ns5.yahoo.com
+        Name Server: ns2.yahoo.com
+        Name Server: ns1.yahoo.com
+        Name Server: ns3.yahoo.com
+        Name Server: ns4.yahoo.com
+        DNSSEC: unsigned
+        URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+        >>> Last update of WHOIS database: 2024-01-12T20:13:34+0000 <<<
+
+        For more information on WHOIS status codes, please visit:
+          https://www.icann.org/resources/pages/epp-status-codes
+
+        If you wish to contact this domain’s Registrant, Administrative, or Technical
+        contact, and such email address is not visible above, you may do so via our web
+        form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+        robot, please enter your email address to receive a link to a page that
+        facilitates email communication with the relevant contact(s).
+
+        Web-based WHOIS:
+          https://domains.markmonitor.com/whois
+
+        If you have a legitimate interest in viewing the non-public WHOIS details, send
+        your request and the reasons for your request to email@markmonitor.com
+        and specify the domain name in the subject line. We will review that request and
+        may ask for supporting documentation and explanation.
+
+        The data in MarkMonitor’s WHOIS database is provided for information purposes,
+        and to assist persons in obtaining information about or related to a domain
+        name’s registration record. While MarkMonitor believes the data to be accurate,
+        the data is provided "as is" with no guarantee or warranties regarding its
+        accuracy.
+
+        By submitting a WHOIS query, you agree that you will use this data only for
+        lawful purposes and that, under no circumstances will you use this data to:
+          (1) allow, enable, or otherwise support the transmission by email, telephone,
+        or facsimile of mass, unsolicited, commercial advertising, or spam; or
+          (2) enable high volume, automated, or electronic processes that send queries,
+        data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+        its systems).
+
+        MarkMonitor reserves the right to modify these terms at any time.
+
+        By submitting this query, you agree to abide by this policy.
+
+        MarkMonitor Domain Management(TM)
+        Protecting companies and consumers in a digital world.
+
+        Visit MarkMonitor at https://www.markmonitor.com
+        Contact us at +1.8007459229
+        In Europe, at +44.02032062220
+        --

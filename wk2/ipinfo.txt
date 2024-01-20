@@ -1,0 +1,5 @@
+google.ca: 142.251.41.35 california, USA
+google.de: 142.251.41.67  california, USA
+google.co.uk: 172.217.1.3 california, USA
+google.de: 142.251.41.68 california, USA
+goo.gle: 67.199.248.13 New York, USA
