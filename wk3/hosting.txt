@@ -1,0 +1,116 @@
+As can be seen from the IPs below and the following pings
+and resulting lookups, Canonical hosts their own network 
+of servers. All their name servers are hosted by themselves 
+in their data centre. They also seem to act as their own ISP 
+for themselves, although I did not delve deeper into this.
+
+ns1 and ns2 likely share the same datacenter in Douglas, Scotland;
+However, it seems that ns3 (resolves to lime.canonical.com) is 
+kept in a different location in London, England.
+
+PING ns1.canonical.com (185.125.190.65) 56(84) bytes of data.
+64 bytes from ns1.canonical.com (185.125.190.65): icmp_seq=1 ttl=51 time=80.2 ms
+64 bytes from ns1.canonical.com (185.125.190.65): icmp_seq=2 ttl=51 time=81.5 ms
+64 bytes from ns1.canonical.com (185.125.190.65): icmp_seq=3 ttl=51 time=81.6 ms
+
+--- ns1.canonical.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 80.200/81.114/81.601/0.646 ms
+
+IP Info:
+========
+Decimal:3112025665
+Hostname:ns1.canonical.com. 65.190.125.185.in-addr.arpa domain name pointer il3-authoritative-nameserver1.canonical.com
+ASN:41231
+ISP:Canonical Group Limited
+
+Decimal:1539136389
+Hostname:lime.canonical.com (91.189.91.133)
+ASN:41231
+ISP:Canonical Group Limited
+
+Decimal:1539136395
+Hostname:ns3.canonical.com. 139.91.189.91.in-addr.arpa domain name pointer lime.canonical.com
+ASN:41231
+
+#---------------------------------------------------------#
+
+
+Raw Whois Data
+
+Domain Name: canonical.com
+Registry Domain ID: 34100_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-08-30T22:38:58+0000
+Creation Date: 1996-07-05T04:00:00+0000
+Registrar Registration Expiration Date: 2025-07-04T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: Canonical, Ltd.
+Registrant State/Province: Isle of Man
+Registrant Country: GB
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/canonical.com
+Admin Organization: Canonical, Ltd.
+Admin State/Province: Isle of Man
+Admin Country: GB
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/canonical.com
+Tech Organization: Canonical, Ltd.
+Tech State/Province: Isle of Man
+Tech Country: GB
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/canonical.com
+Name Server: ns1.canonical.com
+Name Server: ns2.canonical.com
+Name Server: ns3.canonical.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-01-24T12:53:45+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
