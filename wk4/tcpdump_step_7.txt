@@ -1,0 +1,39 @@
+19:49:28.467329 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 198.211.111.194.56162: Flags [P.], seq 1946395577:1946395641, ack 1079906345, win 502, options [nop,nop,TS val 3599707012 ecr 3971449600], length 64
+19:49:28.467390 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 198.211.111.194.56162: Flags [P.], seq 64:144, ack 1, win 502, options [nop,nop,TS val 3599707012 ecr 3971449600], length 80
+19:49:28.467429 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 198.211.111.194.56162: Flags [P.], seq 144:224, ack 1, win 502, options [nop,nop,TS val 3599707012 ecr 3971449600], length 80
+19:49:28.467472 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 198.211.111.194.56162: Flags [P.], seq 224:304, ack 1, win 502, options [nop,nop,TS val 3599707012 ecr 3971449600], length 80
+19:49:28.467520 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 198.211.111.194.56162: Flags [P.], seq 304:368, ack 1, win 502, options [nop,nop,TS val 3599707013 ecr 3971449600], length 64
+19:49:28.476970 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 0, win 501, options [nop,nop,TS val 3971449618 ecr 3599707008], length 0
+19:49:28.481495 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 64, win 501, options [nop,nop,TS val 3971449623 ecr 3599707012], length 0
+19:49:28.481495 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 144, win 501, options [nop,nop,TS val 3971449623 ecr 3599707012], length 0
+19:49:28.481495 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 224, win 501, options [nop,nop,TS val 3971449623 ecr 3599707012], length 0
+19:49:28.481569 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 304, win 501, options [nop,nop,TS val 3971449623 ecr 3599707012], length 0
+19:49:28.481593 IP 198.211.111.194.56162 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 501, options [nop,nop,TS val 3971449623 ecr 3599707013], length 0
+19:49:30.770736 IP 68.149.216.162.bc.googleusercontent.com.50742 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.10006: Flags [S], seq 3897514299, win 65535, options [mss 1460], length 0
+19:49:31.558655 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [S], seq 498367499, win 5840, options [mss 1452,sackOK,TS val 2125853961 ecr 0,nop,wscale 7], length 0
+19:49:31.558737 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [S.], seq 773378608, ack 498367500, win 65160, options [mss 1460,sackOK,TS val 956247090 ecr 2125853961,nop,wscale 7], length 0
+19:49:31.687880 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1, win 46, options [nop,nop,TS val 2125853994 ecr 956247090], length 0
+19:49:31.688384 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1:23, ack 1, win 46, options [nop,nop,TS val 2125853994 ecr 956247090], length 22: SSH: SSH-2.0-libssh_0.9.6
+19:49:31.688410 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [.], ack 23, win 509, options [nop,nop,TS val 956247219 ecr 2125853994], length 0
+19:49:31.702918 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 956247234 ecr 2125853994], length 41: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
+19:49:31.831932 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 42, win 46, options [nop,nop,TS val 2125854030 ecr 956247234], length 0
+19:49:31.831933 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 23:999, ack 42, win 46, options [nop,nop,TS val 2125854030 ecr 956247234], length 976
+19:49:31.831984 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [P.], seq 42:1154, ack 23, win 509, options [nop,nop,TS val 956247363 ecr 2125854030], length 1112
+19:49:31.874588 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [.], ack 999, win 502, options [nop,nop,TS val 956247406 ecr 2125854030], length 0
+19:49:31.998388 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1154, win 63, options [nop,nop,TS val 2125854072 ecr 956247363], length 0
+19:49:32.003514 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 999:1047, ack 1154, win 63, options [nop,nop,TS val 2125854073 ecr 956247406], length 48
+19:49:32.003568 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [.], ack 1047, win 502, options [nop,nop,TS val 956247535 ecr 2125854073], length 0
+19:49:32.010988 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [P.], seq 1154:1686, ack 1047, win 502, options [nop,nop,TS val 956247542 ecr 2125854073], length 532
+19:49:32.139399 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1686, win 81, options [nop,nop,TS val 2125854107 ecr 956247542], length 0
+19:49:32.139930 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1047:1063, ack 1686, win 81, options [nop,nop,TS val 2125854107 ecr 956247542], length 16
+19:49:32.182554 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [.], ack 1063, win 502, options [nop,nop,TS val 956247714 ecr 2125854107], length 0
+19:49:32.311377 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1063:1115, ack 1686, win 81, options [nop,nop,TS val 2125854150 ecr 956247714], length 52
+19:49:32.311424 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [.], ack 1115, win 502, options [nop,nop,TS val 956247842 ecr 2125854150], length 0
+19:49:32.311533 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [P.], seq 1686:1738, ack 1115, win 502, options [nop,nop,TS val 956247843 ecr 2125854150], length 52
+19:49:32.439928 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1115:1199, ack 1738, win 81, options [nop,nop,TS val 2125854182 ecr 956247843], length 84
+19:49:32.445938 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [P.], seq 1738:1790, ack 1199, win 502, options [nop,nop,TS val 956247977 ecr 2125854182], length 52
+19:49:32.574888 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1199:1251, ack 1790, win 81, options [nop,nop,TS val 2125854216 ecr 956247977], length 52
+19:49:32.575327 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [F.], seq 1251, ack 1790, win 81, options [nop,nop,TS val 2125854216 ecr 956247977], length 0
+19:49:32.578529 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > host-87-2-68-173.retail.telecomitalia.it.33211: Flags [F.], seq 1790, ack 1252, win 502, options [nop,nop,TS val 956248109 ecr 2125854216], length 0
+19:49:32.707869 IP host-87-2-68-173.retail.telecomitalia.it.33211 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1791, win 81, options [nop,nop,TS val 2125854249 ecr 956248109], length 0
+19:49:32.742965 IP hosted-by.pfcloud.io.50138 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.8787: Flags [S], seq 3524658436, win 1024, length 0
