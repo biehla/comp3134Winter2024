@@ -1,0 +1,22 @@
+tcpdump udp -c10 -v -n > step_1.txt
+
+22:24:29.903230 IP (tos 0x0, ttl 57, id 61044, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:31.403044 IP (tos 0x0, ttl 57, id 61238, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:32.907518 IP (tos 0x0, ttl 57, id 61675, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:34.405285 IP (tos 0x0, ttl 57, id 61872, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:35.930568 IP (tos 0x0, ttl 57, id 62144, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:37.412171 IP (tos 0x0, ttl 57, id 62381, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:38.906103 IP (tos 0x0, ttl 57, id 62769, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:40.408903 IP (tos 0x0, ttl 57, id 62999, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:41.933540 IP (tos 0x0, ttl 57, id 63093, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
+22:24:43.408491 IP (tos 0x0, ttl 57, id 63262, offset 0, flags [DF], proto UDP (17), length 33)
+    198.96.85.163.54760 > 167.99.191.180.51000: UDP, length 5
