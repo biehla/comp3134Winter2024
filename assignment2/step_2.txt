@@ -1,0 +1,26 @@
+Command:
+tcpdump -vns0  -c10 'tcp port http' >> step_2.txt
+
+Output:
+02:37:37.888188 IP (tos 0x0, ttl 49, id 53437, offset 0, flags [DF], proto TCP (6), length 60)
+    38.240.219.16.34836 > 167.99.191.180.80: Flags [S], cksum 0x6015 (correct), seq 1718981862, win 32120, options [mss 1460,sackOK,TS val 1822888178 ecr 0,nop,wscale 7], length 0
+02:37:37.888271 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    167.99.191.180.80 > 38.240.219.16.34836: Flags [S.], cksum 0x6947 (incorrect -> 0xd11b), seq 1995553914, ack 1718981863, win 65160, options [mss 1460,sackOK,TS val 1296862495 ecr 1822888178,nop,wscale 7], length 0
+02:37:37.933912 IP (tos 0x0, ttl 49, id 53438, offset 0, flags [DF], proto TCP (6), length 52)
+    38.240.219.16.34836 > 167.99.191.180.80: Flags [.], cksum 0xfd3d (correct), ack 1, win 251, options [nop,nop,TS val 1822888234 ecr 1296862495], length 0
+02:37:37.934333 IP (tos 0x0, ttl 49, id 53439, offset 0, flags [DF], proto TCP (6), length 569)
+    38.240.219.16.34836 > 167.99.191.180.80: Flags [P.], cksum 0x913d (correct), seq 1:518, ack 1, win 251, options [nop,nop,TS val 1822888235 ecr 1296862495], length 517: HTTP
+02:37:37.934389 IP (tos 0x0, ttl 64, id 19131, offset 0, flags [DF], proto TCP (6), length 52)
+    167.99.191.180.80 > 38.240.219.16.34836: Flags [.], cksum 0x693f (incorrect -> 0xfa0a), ack 518, win 506, options [nop,nop,TS val 1296862541 ecr 1822888235], length 0
+
+Details:
+Source Host: 38.240.219.16, Source Port: 42604, Destination Host: 167.99.191.180, Destination Port: 80
+Source Host: 167.99.191.180, Source Port: 80, Destination Host: 38.240.219.16, Destination Port: 42604
+Source Host: 38.240.219.16, Source Port: 42604, Destination Host: 167.99.191.180, Destination Port: 80
+Source Host: 38.240.219.16, Source Port: 42604, Destination Host: 167.99.191.180, Destination Port: 80
+Source Host: 167.99.191.180, Source Port: 80, Destination Host: 38.240.219.16, Destination Port: 42604
+Source Host: 167.99.191.180, Source Port: 80, Destination Host: 38.240.219.16, Destination Port: 42604
+Source Host: 167.99.191.180, Source Port: 80, Destination Host: 38.240.219.16, Destination Port: 42604
+Source Host: 38.240.219.16, Source Port: 42604, Destination Host: 167.99.191.180, Destination Port: 80
+Source Host: 38.240.219.16, Source Port: 42604, Destination Host: 167.99.191.180, Destination Port: 80
+Source Host: 167.99.191.180, Source Port: 80, Destination Host: 38.240.219.16, Destination Port: 42604

@@ -1,0 +1,26 @@
+Command: 
+tcpdump udp -vnc10 | sed -n '1p;0~2p' -
+
+Output:
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+38.240.219.16.33268 > 167.99.191.180.51000: UDP, length 19
+
+Details:
+Time: 2024-03-08 20:58:11.836, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.036, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.185, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.375, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.578, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.766, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:12.970, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:13.152, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:13.327, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
+Time: 2024-03-08 20:58:13.521, Source Host: 38.240.219.116.33268, Destination Host: 167.99.191.180, Source Port: 33268, Destination Port: 51000
