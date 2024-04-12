@@ -1,0 +1,5 @@
+something something something ASCII in a unix formatted text file
+the quick brown fox jumps over the lazy doge
+<script>document.getElementsByTagName("body")[0].style.backgroundColor = "green"</script>
+<?php echo phpversion(); ?>
+this file was written in the fabuluos VIM editor,  learn modal editing for speed; __gotta go fast__
